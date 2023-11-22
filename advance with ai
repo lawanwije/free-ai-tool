@@ -1,0 +1,7 @@
+# Filename: hello_github_with_link.py
+
+def main():
+    print("Hello, GitHub! Check out Advance with AI at: https://advancewithai.net")
+
+if __name__ == "__main__":
+    main()
